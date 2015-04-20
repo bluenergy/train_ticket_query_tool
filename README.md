@@ -3,9 +3,9 @@
 
 ##System Requirements
 
-MacOSx
-Ruby 2.1 or higher
-bundler (a gem)
+* MacOSx
+* Ruby 2.1 or higher
+* bundler (a gem)
 
 ##How to use
 
